@@ -1,15 +1,8 @@
 # Logistics
 
-**Next meetup: Sunday October 20th, 12pm PST**
-Schedule: https://hackmd.io/cLr7SN-ER2uOvYc_IlC87A
+**Next meetup: Sunday November 17th, 12pm PST**
 
 
-- Jin
-    - Update the schedule
-    - Update the room
-    - Camera guy during event
-    - Update the Github with event archive
-- Humbletim
 
 **Links**
 
