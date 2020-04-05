@@ -17,20 +17,25 @@
 3. Make sure speakers are still available and have their slides ready
 4. Send reminders to people as time draws near
 5. (Bonus) Uploading presenter notes to [hackmd.io](https://hackmd.io/cLr7SN-ER2uOvYc_IlC87A)
+6. Double check audio / video quality for folks recording
 
 ## Production
 
 1. Drop into the world, decorate, wait for guests
 2. Start recording/streaming to twitch or youtube
+  - Use [OBS](https://obsproject.com/) for the recording.
+  - Have camera people right click slides to enlarge them periodically
 3. Moderate talks to stay on schedule
 4. If streaming, read questions from chat
 5. Cut-off at 2 hours, closing statements, end stream
 
 ## Post-production
 
-1. Upload the video to the [M3 channel](https://www.youtube.com/channel/UC87Q7_5ooY8FSLwOec52ZPQ) with description
-2. Update the [Schedule](https://github.com/M3-org/schedule)/[Research](https://github.com/M3-org/research) Github repos with timestamps
-3. Finish the meeting and presentation notes on [hackmd.io](https://hackmd.io)
+1. Chop up video into into individual talks
+  - Use [Openshot](https://www.openshot.org/) for editing
+2. Upload the videos to the [M3 channel](https://www.youtube.com/channel/UC87Q7_5ooY8FSLwOec52ZPQ) with description
+3. Update the [Schedule](https://github.com/M3-org/schedule)/[Research](https://github.com/M3-org/research) Github repos with timestamps
+4. Finish the meeting and presentation notes on [hackmd.io](https://hackmd.io)
 
 ## Events promotion
 
