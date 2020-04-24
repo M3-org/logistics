@@ -37,6 +37,8 @@ Roles should be assigned as the meetup is being planned. A person can fulfill mu
 1. Drop into the world, decorate, wait for guests (All)
 2. Start recording/streaming to twitch or youtube (Camera)
   - Use [OBS](https://obsproject.com/) for the recording.
+    - **Double check the audio!**
+  - Click camera mode from the hamburger button or tilde ` for clean UI
   - Have camera people right click slides to enlarge them periodically
 3. Moderate talks to stay on schedule (Moderator)
 4. If streaming, read questions from chat (Moderator)
@@ -45,7 +47,7 @@ Roles should be assigned as the meetup is being planned. A person can fulfill mu
 ## Post-production
 
 1. Chop up video into into individual talks (Media)
-  - Use [Openshot](https://www.openshot.org/) or [Premiere](git@github.com:RangerMauve/logistics.git) for editing
+  - Use [Openshot](https://www.openshot.org/) or [Premiere](https://www.adobe.com/products/premiere/free-trial-download.html) for editing
 2. Upload the videos to the [M3 channel](https://www.youtube.com/channel/UC87Q7_5ooY8FSLwOec52ZPQ) with description (Media / Social)
 3. Update the [Schedule](https://github.com/M3-org/schedule)/[Research](https://github.com/M3-org/research) Github repos with timestamps (Media / Organizer)
 4. Finish the meeting and presentation notes on [hackmd.io](https://hackmd.io) (Organizer / Moderator)
@@ -53,10 +55,10 @@ Roles should be assigned as the meetup is being planned. A person can fulfill mu
 
 ## Events promotion
 
-1. Post M3-related media to twitter (Social)
-1. Do a daily roundup of links and post in Discord (Social)
-1. Reach out to interested parties in Twitter/Discord DM to see if they want to present on their topic (Social / Speaker Coordinates)
-1. Attend other events and cross-promote (All)
-1. Scan related Discords and cross-pollinate (All)
-1. Keep in touch with presenters to make sure it's still on track (Speaker Coordinator)
+- Post M3-related media to twitter (Social)
+- Do a daily roundup of links and post in Discord (Social)
+- Reach out to interested parties in Twitter/Discord DM to see if they want to present on their topic (Social / Speaker Coordinates)
+- Attend other events and cross-promote (All)
+- Scan related Discords and cross-pollinate (All)
+- Keep in touch with presenters to make sure it's still on track (Speaker Coordinator)
 
